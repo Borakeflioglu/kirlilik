@@ -17,4 +17,4 @@ async def cam(ctx):
    # Daha sonra bu dosyayı bir parametre olarak gönderebiliriz!
     await ctx.send(file=picture)
 # Botunuzu çalıştırmak için tokeninizi buraya girin
-bot.run('MTIzNjM1ODc0MDgzNjYxNDIwNQ.GYCYRN.4Nr8lmETm81_2OSoxWvkP59_o0583QveEpioQs')
+bot.run('')
